@@ -29,6 +29,10 @@ Exemplos utilizando MarkDown
 
 Marcadores:
 
+```
+- Texto 1
+```
+
 - Texto 1 (- use um traço no início de cada linha )
 - Texto 2
 
