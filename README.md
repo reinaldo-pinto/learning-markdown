@@ -79,16 +79,26 @@ Notebook | R$2000
 ---
 ####**Caixas de texto com códigos/linguagem de programação**
 
-Linguagem C:
+Linguagem C/C++:
 
-```c++
+```c
+main(){
+	char nome[10];
+	strcpy(nome,"concrete");
+
+	printf("Voce trabalha na: %s", nome);
+}
+```
+
+```javascript
+main(){
 char nome[10];
-
 strcpy(nome,"concrete");
 
-printf()
-var bar = 0;
+printf("Voce trabalha na: %s", nome);
+}
 ```
+
 
 > **Tip:** To use **Prettify** instead of **Highlight.js**, just configure the **Markdown Extra** extension in the <i class="icon-cog"></i> **Settings** dialog.
 
