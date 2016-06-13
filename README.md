@@ -63,7 +63,9 @@ Texto
 ####**Tabelas**
 
 Nome     |    Valor
+
 .----------------
+
 Celular | R 1500
 Notebook | R 2000 
 
