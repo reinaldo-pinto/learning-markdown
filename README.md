@@ -1,5 +1,4 @@
-##### DevOps!!
-###### Desconsiderar as mensagens abaixo, a finalidade é aprender as funcionalidades do MarkDown.
+######Desconsiderar as mensagens de teste abaixo, a finalidade é aprender as principais funcionalidades do MarkDown.
 
 Bem-vindo ao meu primeiro MarkDown !
 ===================
