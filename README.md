@@ -4,7 +4,7 @@
 Bem-vindo ao meu primeiro MarkDown !
 ===================
 
-Ola, estou estudando MarkDown para usar nas minhas atividades da concrete, pretendo aprender o suficiente para atender as necessidades nesse instante. **StackEdit**[^stackedit]. 
+Ola, estou estudando MarkDown para usar nas minhas atividades da concrete, pretendo aprender o suficiente para atender as necessidades nesse instante. **(**)Comentario em negrito.**. 
 d anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
 
 ----------
