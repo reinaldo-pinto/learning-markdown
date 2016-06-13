@@ -72,24 +72,31 @@ Utilize cerquilha 1 a 6 (###### Fonte menor), exemplo:
 ###### 6 Cerquilhas  
 #### 4 Cerquilhas
 ```
+Saída:
+###### 6 Cerquilhas  
+#### 4 Cerquilhas
 
 Ou:
 Três traços (---) abaixo do texto, exemplo:
-
 ```
 Texto
 ---
 ```
+Saída:
+Texto
+---
 
 ---
 ###**Tabelas**
 
-####**Tabelas**
+####Criar tabelas e colunas:
 
+```
 Nome     |    Valor
-.----------------
+-------- | ----
 Celular | R 1500
 Notebook | R 2000 
+```
 
 #####Obs: Desconsiderar o ponto "."
 Saída:
