@@ -59,7 +59,7 @@ Separar textos com "traço", exemplo:
 
 ```
 ---
-> Utilize três traços (---) acima e abaixo do texto.
+> Utilize três traços (---) acima ou abaixo do texto.
 
 ---
 ```
