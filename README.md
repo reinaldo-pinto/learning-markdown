@@ -4,20 +4,27 @@ Bem-vindo ao meu primeiro MarkDown !
 ######Desconsiderar as mensagens de teste abaixo, a finalidade é aprender as principais funcionalidades do MarkDown.
 
 
-Ola, estou estudando MarkDown para usar nas minhas atividades da concrete, pretendo aprender o suficiente para atender as necessidades nesse instante. **(Comentario em negrito)**.
+Ola, estou estudando MarkDown para usar nas minhas atividades na Concrete, pretendo aprender o suficiente para atender as necessidades. **(Comentario em negrito)**.
 
 ---
 Exemplos utilizando MarkDown
 --- 
 
-####Caixa de texto marcadores
+####Caixa de texto e marcadores
  
  Caixa de texto:
  
->#### **Nota:** (Neste exemplo foi usado >###**Texto)
-> - Para texto utilize '>' exemplo:
->  Teste!
-> - Você pode colcoar marcadores de texto com '>-'
+ ```
+ >####**Nota>**
+ > Somente texto.
+ > - Texto e Marcador.
+ ```
+ 
+ Saída:
+ 
+>#### **Nota:** 
+> Para texto utilize '>'
+> - Você pode colocar marcadores de texto com '> -'
 > 
 
 Marcadores:
@@ -26,13 +33,18 @@ Marcadores:
 - Texto 2
 
 ----
-####**Citar exemplos usando Ctrl + Tecla:**
+####**Usando Ctrl + Tecla:**
 
-Para bloquear a tela na distribuição Linux Fedora:
+Para bloquear a tela no Linux/Fedora:
+
+```
+><kdb>Ctrl + Alt + 1</kbd>
+```
+Saída:
 
 ><kbd>Ctrl + Alt + l</kbd> 
 
-Ou:
+Ou (sem >):
 
 <kbd>Ctrl + Alt + l</kbd>
 
@@ -41,22 +53,30 @@ ___
 
 Separar textos com "traço", exemplo:
 
+```
 ---
 > Utilize três traços (---) acima e abaixo do texto.
 
+---
+```
 ---
 
 ####**Tamanho da fonte**
 
 Utilize cerquilha 1 a 6 (###### Fonte menor), exemplo:
-
-> ###### 6 Cerquilhas  
-> #### 4 Cerquilhas
+```
+###### 6 Cerquilhas  
+#### 4 Cerquilhas
+```
 
 Ou:
 Três traços (---) abaixo do texto, exemplo:
+
+```
 Texto
 ---
+```
+
 ---
 ###**Tabelas**
 
