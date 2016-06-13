@@ -63,9 +63,7 @@ Texto
 ####**Tabelas**
 
 Nome     |    Valor
-
 .----------------
-
 Celular | R 1500
 Notebook | R 2000 
 
@@ -79,10 +77,16 @@ Notebook | R$2000
 
 
 ---
-M
+####**Caixas de texto com códigos/linguagem de programação**
 
-```
-// Foo
+Linguagem C:
+
+```c++
+char nome[10];
+
+strcpy(nome,"concrete");
+
+printf()
 var bar = 0;
 ```
 
