@@ -60,44 +60,24 @@ Texto
 ---
 ###**Tabelas**
 
-**Markdown Extra** has a special syntax for tables:
+####**Tabelas**
 
-Item     | Value
+Nome     |    Valor
+.----------------
+Celular | R 1500
+Notebook | R 2000 
+
+#####Obs: Desconsiderar o ponto "."
+Saída:
+
+Item     | Valor
 -------- | ---
-Computer | $1600
-Phone    | $12
-Pipe     | $1
-
-You can specify column alignment with one or two colons:
-
-| Item     | Value | Qty   |
-| :------- | ----: | :---: |
-| Computer | $1600 |  5    |
-| Phone    | $12   |  12   |
-| Pipe     | $1    |  234  |
+Celular | R$1600
+Notebook | R$2000
 
 
-### Definition Lists
-
-**Markdown Extra** has a special syntax for definition lists too:
-
-Term 1
-Term 2
-:   Definition A
-:   Definition B
-
-Term 3
-
-:   Definition C
-
-:   Definition D
-
-	> part of definition D
-
-
-### Fenced code blocks
-
-GitHub's fenced code blocks are also supported with **Highlight.js** syntax highlighting:
+---
+M
 
 ```
 // Foo
