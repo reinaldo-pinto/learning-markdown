@@ -1,10 +1,10 @@
-#### DevOps!!
+##### DevOps!!
+###### Desconsiderar as mensagens abaixo, a finalidade é aprender as funcionalidades do MarkDown.
 
-
-Bem-vindo ao meu primeiro MarckDown !
+Bem-vindo ao meu primeiro MarkDown !
 ===================
 
-Ola, estou estudando MarckDown para usar nas minhas atividades da concrete, não sou especialista em MarckDown mas pretendo aprender o suficiente para atender as necessidades nesse instante. **StackEdit**[^stackedit]. 
+Ola, estou estudando MarkDown para usar nas minhas atividades da concrete, pretendo aprender o suficiente para atender as necessidades nesse instante. **StackEdit**[^stackedit]. 
 d anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
 
 ----------
