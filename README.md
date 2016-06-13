@@ -253,8 +253,8 @@ cond(no)->op
 
 ### Support StackEdit
 
-[![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9fuZ9QPQ_7LN9t9ZOSWx7yz2MAAIwlGQECJJzOs2qRIOOR797fw)  
-ola]
+![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9fuZ9QPQ_7LN9t9ZOSWx7yz2MAAIwlGQECJJzOs2qRIOOR797fw)  
+ola
 
 [![](https://cdn.monetizejs.com/resources/button-32.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
 
